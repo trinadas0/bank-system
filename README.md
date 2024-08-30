@@ -1,4 +1,4 @@
-# Java Bank Account Simulation
+# Bank Simulation Using OOP Fundamentals
 
 ## Overview
 
