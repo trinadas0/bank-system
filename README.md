@@ -25,6 +25,7 @@ This project is a simple banking system simulation implemented in Java. It demon
 
 ## Example Output
 
+```bash
 --- Bank Account Simulation ---
 1. Create Savings Account
 2. Create Checking Account
@@ -40,4 +41,3 @@ Enter account holder name: John Doe
 Enter initial balance: 5000
 Enter interest rate: 0.02
 Savings Account created successfully.
-
